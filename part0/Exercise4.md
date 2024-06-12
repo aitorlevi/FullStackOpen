@@ -1,7 +1,7 @@
 sequenceDiagram
-participant user
-participant browser
-participant server
+    participant user
+    participant browser
+    participant server
 
     user->>browser: Fill input text
     user->>browser: Click button Save
